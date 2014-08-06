@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preface"> Many year have passed since the first Ibo Hymn Books such as the &quot;Onitsha Ibo Hymn Book&quot; (Akwukwo Ukwe) and the &quot;Union Ibo Hymn Book&quot;</string>
+
+</resources>

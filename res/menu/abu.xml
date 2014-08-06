@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+    android:title="PREFACE"
+    android:icon="@drawable/pref"
+    android:id="@+id/preface"/>
+    
+    <item
+    android:title="About"
+    android:icon="@drawable/abt"
+    android:id="@+id/aboutUs"/>
+       
+    <item
+    android:title="Exit"
+    android:icon="@drawable/exit"
+    android:id="@+id/exit"/>
+
+</menu>
